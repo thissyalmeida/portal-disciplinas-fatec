@@ -1,21 +1,27 @@
-site_name: Portal Acadêmico
-site_description: Materiais de Aula
+site_name: Portal Acadêmico Fatec
+site_description: Materiais de Aula e Recursos Didáticos
 site_author: Thissiany Almeida
 
 theme:
-  name: material
-  language: pt-BR
+name: material
+language: pt-BR
 
-  palette:
-    primary: red
-    accent: red
+palette:
+- scheme: default
+primary: black
+accent: red
+
+features:
+- navigation.tabs
+- navigation.sections
+- navigation.top
+- search.highlight
+- content.code.copy
+
+extra_css:
+
+- assets/stylesheets/extra.css
 
 nav:
-  - Início: index.md
-  - PLN: pln.md
-  - Aprendizagem de Máquina: am.md
-  - Programação Web I: pwi.md
-  - Programação Web II: pwii.md
-  - Algoritmos: alp.md
-  - Matemática: matematica.md
-  - Estrutura de Dados: ed.md
+
+- Início: index.md
