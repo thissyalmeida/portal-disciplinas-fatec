@@ -1,0 +1,21 @@
+site_name: Portal Acadêmico
+site_description: Materiais de Aula
+site_author: Thissiany Almeida
+
+theme:
+  name: material
+  language: pt-BR
+
+  palette:
+    primary: red
+    accent: red
+
+nav:
+  - Início: index.md
+  - PLN: pln.md
+  - Aprendizagem de Máquina: am.md
+  - Programação Web I: pwi.md
+  - Programação Web II: pwii.md
+  - Algoritmos: alp.md
+  - Matemática: matematica.md
+  - Estrutura de Dados: ed.md
