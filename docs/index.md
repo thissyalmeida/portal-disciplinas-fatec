@@ -1,13 +1,43 @@
-# Portal Acadêmico
-
-Bem-vindo ao portal de materiais da Fatec.
+# 📚 Portal Acadêmico
 
 ## Disciplinas
 
-- PLN
-- Aprendizagem de Máquina
-- Programação Web I
-- Programação Web II
-- Algoritmos e Lógica de Programação
-- Matemática para Computação
-- Estrutura de dados
+### 🤖 Aprendizagem de Máquina
+
+[Ir para disciplina](am.md)
+
+---
+
+### 🧠 PLN
+
+[Ir para disciplina](pln.md)
+
+---
+
+### 💻 Programação Web I
+
+[Ir para disciplina](pwi.md)
+
+---
+
+### 🌐 Programação Web II
+
+[Ir para disciplina](pwii.md)
+
+---
+
+### ⚙️ Algoritmos e Lógica de Programação
+
+[Ir para disciplina](alp.md)
+
+---
+
+### 📊 Matemática para Computação
+
+[Ir para disciplina](matematica.md)
+
+---
+
+### 💻 Estrutura de dados
+
+[Ir para disciplina](ed.md)
