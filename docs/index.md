@@ -30,44 +30,23 @@ Professora da Fatec de Registro, atuando nas áreas de:
 
 <div class="cards-grid">
 
-<div class="disc-card">
+<a href="disciplinas/pln/" class="disc-card">
 
-<img src="assets/images/pln.jpg">
+<img src="../assets/images/pln.jpg">
 
-### 🧠 PLN
+## 🧠 PLN
 
-[GitHub](#)
+Processamento de Linguagem Natural
 
-[Site](#)
+</a>
 
-[Plano de Ensino](#)
+<a href="disciplinas/am/" class="disc-card">
 
-[Cronograma](#)
+<img src="../assets/images/am.jpg">
 
-[Exercícios](#)
+## 🤖 Aprendizagem de Máquina
 
-[Avaliações](#)
+Perceptron, KNN e IA
 
-</div>
-
-<div class="disc-card">
-
-<img src="assets/images/am.jpg">
-
-### 🤖 Aprendizagem de Máquina
-
-[GitHub](#)
-
-[Site](#)
-
-[Plano de Ensino](#)
-
-[Cronograma](#)
-
-[Exercícios](#)
-
-[Avaliações](#)
-
-</div>
-
+</a>
 </div>
