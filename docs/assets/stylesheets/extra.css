@@ -50,9 +50,9 @@ text-decoration:none;
 }
 
 .md-header{
-background:#111;
+background:#111 !important;
 }
 
 .md-tabs{
-background:#b5121b
+background:#b5121b !important;
 }
