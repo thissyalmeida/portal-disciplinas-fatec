@@ -1,40 +1,79 @@
-site_name: Portal Acadêmico Fatec
-site_description: Materiais de Aula e Recursos Didáticos
-site_author: Thissiany Almeida
+site_name: Portal Acadêmico
+site_description: Materiais de Aula 
+site_author: Profª Thissiany Almeida 
 
-theme:
-name: material
-language: pt-BR
+theme: 
+  name: material 
+  language: pt-BR
+  logo: assets/images/logo-fatec.jpg
+  favicon: assets/images/logo-fatec.jpg
+  
+  palette: 
+    
+    - media: "(prefers-color-scheme: light)" 
+      scheme: default 
+      primary: black 
+      accent: red 
+      
+      toggle:
+       icon: material/weather-night 
+       name: Tema Escuro 
+    
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate 
+      primary: black 
+      accent: red 
+      
+      toggle: 
+        icon: material/weather-sunny 
+        name: Tema Claro 
+        
+  features: 
+    - navigation.tabs 
+    - navigation.sections 
+    - navigation.expand 
+    - navigation.top 
+    - navigation.instant 
+    - navigation.tracking 
+    - search.highlight 
+    - search.suggest 
+    - content.code.copy 
+    - content.tabs.link 
+    - toc.follow 
 
-logo: assets/images/logo-fatec.png
+markdown_extensions: 
+    - admonition 
+    - attr_list 
+    - md_in_html 
+    - tables 
+    - footnotes 
+    - pymdownx.details 
+    - pymdownx.superfences 
+    - pymdownx.tabbed: 
+        alternate_style: true 
+    - pymdownx.highlight 
+    - pymdownx.inlinehilite 
+    - pymdownx.keys 
+    - pymdownx.snippets 
+    - pymdownx.emoji: 
+        emoji_index: !!python/name:material.extensions.emoji.twemoji 
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg 
 
-palette:
-- scheme: default
-primary: black
-accent: red
+nav: 
+  - Início: index.md 
+  - Sobre: sobre.md 
+  - Contato: contatos.md 
+  - Disciplinas: 
+    - Algoritmos e Lógica de Programação: 
+      - Apresentação: disciplinas/alp/index.md 
+      - Plano de Ensino: disciplinas/alp/plano.md 
+      - Cronograma: disciplinas/alp/cronograma.md 
+      - Materiais: disciplinas/alp/materiais.md 
+      - Exercícios: disciplinas/alp/exercicios.md 
+      - Projetos: disciplinas/alp/projetos.md  
+      - Avisos: disciplinas/alp/avisos.md
 
-features:
-- navigation.tabs
-- navigation.sections
-- navigation.top
-- search.highlight
-- search.suggest
-- content.code.copy
+copyright: |
+  © 2026 Profª Me. Thissiany Almeida
 
-extra_css:
-
-* assets/stylesheets/extra.css
-
-nav:
-
-* Início: index.md
-* Professora: professora.md
-* Disciplinas:
-
-  * PLN: disciplinas/pln.md
-  * Aprendizagem de Máquina: disciplinas/am.md
-  * ALP: disciplinas/alp.md
-  * PWI: disciplinas/pwi.md
-  * PWII: disciplinas/pwii.md
-  * ED: disciplinas/ed.md
-  * MPC: disciplinas/matematica.md
+  Fatec Registro • Centro Paula Souza
