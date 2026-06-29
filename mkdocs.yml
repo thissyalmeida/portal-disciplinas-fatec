@@ -6,6 +6,8 @@ theme:
 name: material
 language: pt-BR
 
+logo: assets/images/logo-fatec.png
+
 palette:
 - scheme: default
 primary: black
@@ -16,12 +18,23 @@ features:
 - navigation.sections
 - navigation.top
 - search.highlight
+- search.suggest
 - content.code.copy
 
 extra_css:
 
-- assets/stylesheets/extra.css
+* assets/stylesheets/extra.css
 
 nav:
 
-- Início: index.md
+* Início: index.md
+* Professora: professora.md
+* Disciplinas:
+
+  * PLN: disciplinas/pln.md
+  * Aprendizagem de Máquina: disciplinas/am.md
+  * ALP: disciplinas/alp.md
+  * PWI: disciplinas/pwi.md
+  * PWII: disciplinas/pwii.md
+  * ED: disciplinas/ed.md
+  * MPC: disciplinas/matematica.md
