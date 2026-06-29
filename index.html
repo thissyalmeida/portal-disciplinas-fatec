@@ -26,9 +26,73 @@
         <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
             <div class="container">
                 <a class="navbar-brand" href=".">Portal Acadêmico Fatec</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
                 <!-- Expanded navigation -->
                 <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item">
+                                <a href="." class="nav-link active" aria-current="page">Início</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">PLN</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="disciplinas/pln/index.md" class="dropdown-item">Visão Geral</a>
+</li>
+                                    
+<li>
+    <a href="disciplinas/pln/plano.md" class="dropdown-item">Plano de Ensino</a>
+</li>
+                                    
+<li>
+    <a href="disciplinas/pln/cronograma.md" class="dropdown-item">Cronograma</a>
+</li>
+                                    
+<li>
+    <a href="disciplinas/pln/exercicios.md" class="dropdown-item">Exercícios</a>
+</li>
+                                    
+<li>
+    <a href="disciplinas/pln/avaliacoes.md" class="dropdown-item">Avaliações</a>
+</li>
+                                    
+<li>
+    <a href="disciplinas/pln/projetos.md" class="dropdown-item">Projetos</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Aprendizagem de Máquina</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="disciplinas/am/index.md" class="dropdown-item">Visão Geral</a>
+</li>
+                                    
+<li>
+    <a href="disciplinas/am/plano.md" class="dropdown-item">Plano de Ensino</a>
+</li>
+                                    
+<li>
+    <a href="disciplinas/am/cronograma.md" class="dropdown-item">Cronograma</a>
+</li>
+                                    
+<li>
+    <a href="disciplinas/am/exercicios.md" class="dropdown-item">Exercícios</a>
+</li>
+                                    
+<li>
+    <a href="disciplinas/am/avaliacoes.md" class="dropdown-item">Avaliações</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
 
                     <ul class="nav navbar-nav ms-md-auto">
                         <li class="nav-item">
@@ -56,6 +120,10 @@
             
             <li class="nav-item" data-bs-level="1"><a href="#portal-academico" class="nav-link">Portal Acadêmico</a>
               <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#disciplinas" class="nav-link">Disciplinas</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
               </ul>
             </li>
         </ul>
@@ -63,59 +131,54 @@
 </div></div>
                     <div class="col-md-9" role="main">
 
+<p align="center">
+  <img src="assets/images/logo-fatec.png" width="220">
+</p>
+
 <h1 id="portal-academico">Portal Acadêmico</h1>
-<p>Bem-vindo ao portal de materiais das disciplinas.</p>
+<p>Bem-vindo ao ambiente virtual de apoio às disciplinas ministradas pela Profª Thissiany Almeida.</p>
+<div class="perfil">
+
+<img src="assets/images/professora.jpg" class="foto-prof">
+
+<div>
+
+## Sobre a Professora
+
+Professora da Fatec de Registro, atuando nas áreas de:
+
+* Programação
+* Desenvolvimento Web
+* Inteligência Artificial
+* Machine Learning
+* Processamento de Linguagem Natural
+
+</div>
+
+</div>
+
+<h2 id="disciplinas">Disciplinas</h2>
 <div class="cards-grid">
 
-<a href="https://github.com/SEUUSUARIO/materialAula-PLN" class="disc-card">
-<div>
-<h2>🧠 PLN</h2>
-<p>Processamento de Linguagem Natural</p>
-</div>
+<a href="disciplinas/pln/" class="disc-card">
+
+<img src="../assets/images/pln.jpg">
+
+## 🧠 PLN
+
+Processamento de Linguagem Natural
+
 </a>
 
-<a href="https://github.com/SEUUSUARIO/materialAula-AM" class="disc-card">
-<div>
-<h2>🤖 Aprendizagem de Máquina</h2>
-<p>Perceptron, KNN, Árvores de Decisão e IA</p>
-</div>
-</a>
+<a href="disciplinas/am/" class="disc-card">
 
-<a href="https://github.com/SEUUSUARIO/materialAula-PWI" class="disc-card">
-<div>
-<h2>💻 Programação Web I</h2>
-<p>HTML, CSS e JavaScript</p>
-</div>
-</a>
+<img src="../assets/images/am.jpg">
 
-<a href="https://github.com/SEUUSUARIO/materialAula-PWII" class="disc-card">
-<div>
-<h2>🌐 Programação Web II</h2>
-<p>PHP e MySQL</p>
-</div>
-</a>
+## 🤖 Aprendizagem de Máquina
 
-<a href="https://github.com/SEUUSUARIO/materialAula-ALP" class="disc-card">
-<div>
-<h2>⚙️ Algoritmos</h2>
-<p>Lógica de Programação e Linguagem C</p>
-</div>
-</a>
+Perceptron, KNN e IA
 
-<a href="https://github.com/SEUUSUARIO/materialAula-MATCOMP" class="disc-card">
-<div>
-<h2>📊 Matemática para Computação</h2>
-<p>Lógica Matemática e Fundamentos</p>
-</div>
 </a>
-
-<a href="https://github.com/SEUUSUARIO/materialAula-MATCOMP" class="disc-card">
-<div>
-<h2>💻 Estrutura de dados</h2>
-<p>Estrutura de dados</p>
-</div>
-</a>
-
 </div></div>
             </div>
         </div>
@@ -198,5 +261,5 @@
 
 <!--
 MkDocs version : 1.6.1
-Build Date UTC : 2026-06-24 17:33:46.140015+00:00
+Build Date UTC : 2026-06-29 00:37:25.811142+00:00
 -->
