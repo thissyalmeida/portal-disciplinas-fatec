@@ -1,41 +1,82 @@
-![Banner](../assets/images/pln.webp)
+# 🧠 Processamento de Linguagem Natural
 
-# 🧠 PLN
+> **Curso:** Desenvolvimento de Software Multiplataforma  
+> **Semestre:** 5º  
+> **Carga Horária:** 80 horas  
+> **Professora:** Profª Me. Thissiany Almeida
 
-## Bem-vindo!
+---
 
-!!! info "Aviso"
+Bem-vindo!
 
-    A entrega da Lista 02 será em 15/09.
+Esta disciplina apresenta técnicas para processamento computacional da linguagem natural utilizando Python e bibliotecas especializadas.
 
-!!! warning "Importante"
+[📂 GitHub](https://github.com/...){ .md-button .md-button--primary }
 
-    A prova será realizada em laboratório.
+[🌐 GitHub Pages](https://...){ .md-button }
 
-!!! tip "Dica"
+[📄 Plano](plano.md){ .md-button }
 
-    Revise o conteúdo da Aula 04 antes da atividade.
+## 📖 Organização
 
-=== "Plano de ensino"
+<div class="grid cards" markdown>
 
-    Conteúdo do plano.
+- :material-file-document:
 
-=== "Cronograma"
+  **Plano de Ensino**
 
-    Cronograma semanal.
+  [:Abrir](plano.md)
 
-=== "Materiais"
+- :material-calendar:
 
-    Slides, apostilas e exemplos.
+  **Cronograma**
 
-=== "Exercícios"
+  [:Abrir](cronograma.md)
 
-    Listas e atividades.
+- :material-bookshelf:
 
-=== "Projetos"
+  **Bibliografia**
 
-    Projetos da disciplina
+  [:Abrir](bibliografia.md)
 
-=== "Repositório Github"
+</div>
 
-    Código-fonte e materiais
+## 📢 Avisos
+
+!!! info
+
+    Bem-vindo à disciplina.
+
+!!! warning
+
+    Entrega da Lista 02 na próxima semana.
+
+!!! success
+
+    Projeto publicado.
+
+## 🔗 Links
+
+- 🐙 GitHub
+
+- 🌎 GitHub Pages
+
+- 🎓 SIGA
+
+- 📚 Biblioteca
+
+- 🎥 YouTube
+
+- 📑 Artigos
+
+────────────────────
+
+Última atualização
+
+20/06/2026
+
+Versão
+
+1.0
+
+────────────────────
