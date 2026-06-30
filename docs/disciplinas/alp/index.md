@@ -1,17 +1,84 @@
-# Welcome to MkDocs
+# ⚙️ Algoritmos e Lógica de Programação
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Bem-vindo!
 
-## Commands
+Esta disciplina apresenta os fundamentos da lógica de programação, algoritmos e desenvolvimento utilizando a linguagem C.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### Informações Gerais
 
-## Project layout
+| Item | Informação |
+|------|------------|
+| Curso | DSM |
+| Carga Horária | 80 horas |
+| Professora | Profª Me. Thissiany Almeida |
+| Semestre | 1º |
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Acesse rapidamente
+
+<div class="grid cards" markdown>
+
+- :material-file-document: **Plano de Ensino**
+
+  ---
+
+  Objetivos, competências, habilidades e critérios de avaliação.
+
+  [:octicons-arrow-right-24: Abrir](plano.md)
+
+- :material-calendar: **Cronograma**
+
+  ---
+
+  Organização semanal das aulas.
+
+  [:octicons-arrow-right-24: Abrir](cronograma.md)
+
+- :material-book-open-page-variant: **Materiais**
+
+  ---
+
+  Slides, códigos, artigos e vídeos.
+
+  [:octicons-arrow-right-24: Abrir](materiais.md)
+
+- :material-pencil: **Exercícios**
+
+  ---
+
+  Listas de exercícios e desafios.
+
+  [:octicons-arrow-right-24: Abrir](exercicios.md)
+
+- :material-clipboard-check: **Avaliações**
+
+  ---
+
+  Provas, critérios e notas.
+
+  [:octicons-arrow-right-24: Abrir](avaliacoes.md)
+
+- :material-lightbulb-on: **Projetos**
+
+  ---
+
+  Projetos desenvolvidos durante o semestre.
+
+  [:octicons-arrow-right-24: Abrir](projetos.md)
+
+- :material-bookshelf: **Bibliografia**
+
+  ---
+
+  Livros e materiais de apoio.
+
+  [:octicons-arrow-right-24: Abrir](bibliografia.md)
+
+- :material-bullhorn: **Avisos**
+
+  ---
+
+  Comunicados importantes da disciplina.
+
+  [:octicons-arrow-right-24: Abrir](avisos.md)
+
+</div>

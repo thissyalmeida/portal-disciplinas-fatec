@@ -72,6 +72,46 @@ nav:
       - Exercícios: disciplinas/alp/exercicios.md 
       - Projetos: disciplinas/alp/projetos.md  
       - Avisos: disciplinas/alp/avisos.md
+    - Aprendizagem de Máquina: 
+      - Apresentação: disciplinas/am/index.md 
+      - Plano de Ensino: disciplinas/am/plano.md 
+      - Cronograma: disciplinas/am/cronograma.md 
+      - Materiais: disciplinas/am/materiais.md 
+      - Exercícios: disciplinas/am/exercicios.md 
+      - Projetos: disciplinas/am/projetos.md  
+      - Avisos: disciplinas/am/avisos.md
+    - Estrutura de Dados: 
+      - Apresentação: disciplinas/ed/index.md 
+      - Plano de Ensino: disciplinas/ed/plano.md 
+      - Cronograma: disciplinas/ed/cronograma.md 
+      - Materiais: disciplinas/ed/materiais.md 
+      - Exercícios: disciplinas/ed/exercicios.md 
+      - Projetos: disciplinas/ed/projetos.md  
+      - Avisos: disciplinas/ed/avisos.md
+    - Métodos para Produção do Conhecimento: 
+      - Apresentação: disciplinas/metodos/index.md 
+      - Plano de Ensino: disciplinas/metodos/plano.md 
+      - Cronograma: disciplinas/metodos/cronograma.md 
+      - Materiais: disciplinas/metodos/materiais.md 
+      - Exercícios: disciplinas/metodos/exercicios.md 
+      - Projetos: disciplinas/metodos/projetos.md  
+      - Avisos: disciplinas/metodos/avisos.md
+    - Matemática para Computação: 
+      - Apresentação: disciplinas/mpc/index.md 
+      - Plano de Ensino: disciplinas/mpc/plano.md 
+      - Cronograma: disciplinas/mpc/cronograma.md 
+      - Materiais: disciplinas/mpc/materiais.md 
+      - Exercícios: disciplinas/mpc/exercicios.md 
+      - Projetos: disciplinas/mpc/projetos.md  
+      - Avisos: disciplinas/mpc/avisos.md
+    - Processamento de Linguagem Natural: 
+      - Apresentação: disciplinas/pln/index.md 
+      - Plano de Ensino: disciplinas/pln/plano.md 
+      - Cronograma: disciplinas/pln/cronograma.md 
+      - Materiais: disciplinas/pln/materiais.md 
+      - Exercícios: disciplinas/pln/exercicios.md 
+      - Projetos: disciplinas/pln/projetos.md  
+      - Avisos: disciplinas/pln/avisos.md
 
 copyright: |
   © 2026 Profª Me. Thissiany Almeida
