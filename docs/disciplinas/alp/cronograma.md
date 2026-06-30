@@ -1,5 +1,11 @@
 # 📅 Cronograma da Disciplina
 
+O cronograma desta disciplina está organizado no arquivo:
+
+`config/cronograma.yml`
+
+No futuro, este conteúdo poderá ser exibido automaticamente por meio de plugins ou scripts de geração.
+
 Este cronograma apresenta a organização dos encontros previstos para a disciplina.
 
 Sempre consulte esta página para verificar atualizações de conteúdo, atividades e avaliações.

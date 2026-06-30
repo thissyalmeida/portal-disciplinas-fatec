@@ -1,0 +1,17 @@
+* aula: 1
+  data: 10/02/2026
+  titulo: Apresentação da disciplina
+  material: Aula01.pdf
+  exercicio: Lista01.pdf
+
+* aula: 2
+  data: 17/02/2026
+  titulo: Variáveis e Tipos de Dados
+  material: Aula02.pdf
+  exercicio: Lista02.pdf
+
+* aula: 3
+  data: 24/02/2026
+  titulo: Estruturas Condicionais
+  material: Aula03.pdf
+  exercicio: Lista03.pdf

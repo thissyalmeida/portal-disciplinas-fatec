@@ -1,0 +1,19 @@
+nome: Prova 1
+data: 31/03/2026
+peso: 40%
+conteudo:
+Variáveis
+Condicionais
+Repetições
+nome: Projeto
+data: 26/05/2026
+peso: 30%
+conteudo:
+Desenvolvimento completo
+basica:
+  - Fundamentos da Programação em C
+  - Algoritmos: Lógica para Desenvolvimento de Programação
+
+complementar:
+  - Clean Code
+  - Estruturas de Dados em C
